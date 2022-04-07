@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:13:23	1238/1238	---M--	404	error ('Not%20Found')	text/html	date:Thu,%2007%20Apr%202022%2017:13:22%20GMT	https://claimme.biz/robots.txt		(from )
+00:13:23	63935/63935	---M-Z	200	added ('OK')	text/html	date:Thu,%2007%20Apr%202022%2017:13:23%20GMT	https://claimme.biz/firekirinfreemoney2022/	C:/Users/Panha/Desktop/Test%20Clone%20With%20Httrack/Fire%20Kirin/claimme.biz/firekirinfreemoney2022/index.html	(from )
